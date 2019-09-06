@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/brandonv98/MERN-Stack-Template/issues"
   },
-  "homepage": "https://github.com/brandonv98/MERN-Stack-Template#readme"
+  "homepage": "https://github.com/brandonv98/MERN-Stack-Template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

@@ -1,0 +1,28 @@
+{
+  "name": "mern-stack-template",
+  "version": "1.0.0",
+  "description": "mern stack template for quick deployment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonv98/MERN-Stack-Template.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodeJS",
+    "react",
+    "mongodb",
+    "template",
+    "mern",
+    "stack"
+  ],
+  "author": "Brandon VanCamp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonv98/MERN-Stack-Template/issues"
+  },
+  "homepage": "https://github.com/brandonv98/MERN-Stack-Template#readme"
+}

@@ -2,4 +2,13 @@
  MERN Stack template for quick && easy setup. Tools (MongoDB, Express, React, NodeJS).
 
 ----
-## Coming Soon...
+
+Download the starter files then
+
+```
+npm install
+```
+next
+```
+npm start
+```
